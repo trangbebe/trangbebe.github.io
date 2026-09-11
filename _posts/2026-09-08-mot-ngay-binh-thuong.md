@@ -1,4 +1,3 @@
-
 ---
 title: "Một ngày bình thường"
 date: 2026-09-08 +0700
@@ -22,4 +21,4 @@ Ui cảm giác lúc ấy nó sung sướng vô cùng. Cảm giác như m�
 
 ## Kết luận
 
-...
+---
