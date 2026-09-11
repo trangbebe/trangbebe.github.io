@@ -1,7 +1,7 @@
 ---
 title: "Lần Đầu Tiên"
 date: 2026-08-03
-categories: []
+categories: [Những ngày tập lớn]
 tags: []
 description: Càm giác lần đầu ngồi mày mò để làm vlog
 image:
