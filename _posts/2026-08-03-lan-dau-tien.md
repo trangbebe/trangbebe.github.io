@@ -4,7 +4,6 @@ date: 2026-08-03
 categories: [Daily]
 tags: [life]
 description: Càm giác lần đầu ngồi mày mò để làm vlog
-image:
 ---
 
 Hôm nay ngồi lại văn phòng để tạo blog này
